@@ -1,0 +1,15 @@
+/Users/romanstukalkin/Downloads/education/itog/bin/Debug/net6.0/itog
+/Users/romanstukalkin/Downloads/education/itog/bin/Debug/net6.0/itog.deps.json
+/Users/romanstukalkin/Downloads/education/itog/bin/Debug/net6.0/itog.runtimeconfig.json
+/Users/romanstukalkin/Downloads/education/itog/bin/Debug/net6.0/itog.dll
+/Users/romanstukalkin/Downloads/education/itog/bin/Debug/net6.0/itog.pdb
+/Users/romanstukalkin/Downloads/education/itog/obj/Debug/net6.0/itog.csproj.AssemblyReference.cache
+/Users/romanstukalkin/Downloads/education/itog/obj/Debug/net6.0/itog.GeneratedMSBuildEditorConfig.editorconfig
+/Users/romanstukalkin/Downloads/education/itog/obj/Debug/net6.0/itog.AssemblyInfoInputs.cache
+/Users/romanstukalkin/Downloads/education/itog/obj/Debug/net6.0/itog.AssemblyInfo.cs
+/Users/romanstukalkin/Downloads/education/itog/obj/Debug/net6.0/itog.csproj.CoreCompileInputs.cache
+/Users/romanstukalkin/Downloads/education/itog/obj/Debug/net6.0/itog.dll
+/Users/romanstukalkin/Downloads/education/itog/obj/Debug/net6.0/refint/itog.dll
+/Users/romanstukalkin/Downloads/education/itog/obj/Debug/net6.0/itog.pdb
+/Users/romanstukalkin/Downloads/education/itog/obj/Debug/net6.0/itog.genruntimeconfig.cache
+/Users/romanstukalkin/Downloads/education/itog/obj/Debug/net6.0/ref/itog.dll
